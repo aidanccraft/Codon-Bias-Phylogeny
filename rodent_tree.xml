@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd" xmlns="http://www.phyloxml.org">
+<phylogeny rooted="true">
+<clade><clade branch_length="0.5505992301654034">
+<clade branch_length="0.17538810960156492">
+<clade branch_length="0.4726779381858567">
+<clade branch_length="0.07720341195194699">
+<name>Cricetulus longicaudatus</name>
+</clade>
+<clade branch_length="0.07720341195194699">
+<name>Cricetulus griseus</name>
+</clade>
+</clade>
+<clade branch_length="0.5498813501378037">
+<name>Sciurus aberti</name>
+</clade>
+</clade>
+<clade branch_length="0.7252694597393686">
+<name>Cricetinae</name>
+</clade>
+</clade>
+<clade branch_length="1.275868689904772">
+<name>Thomomys bottae</name>
+</clade>
+</clade>
+</phylogeny>
+</phyloxml>
