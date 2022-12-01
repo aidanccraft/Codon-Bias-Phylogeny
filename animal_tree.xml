@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd" xmlns="http://www.phyloxml.org">
+<phylogeny rooted="true">
+<clade><clade branch_length="0.062284806394537845">
+<clade branch_length="0.021678157273154225">
+<clade branch_length="0.07698514149736305">
+<name>Oncorhynchus mykiss</name>
+</clade>
+<clade branch_length="0.07698514149736305">
+<name>Oryctolagus cuniculus</name>
+</clade>
+</clade>
+<clade branch_length="0.0682589602615201">
+<clade branch_length="0.01721116889092989">
+<clade branch_length="0.013193169618067276">
+<name>Equus caballus</name>
+</clade>
+<clade branch_length="0.013193169618067276">
+<name>Bos taurus</name>
+</clade>
+</clade>
+<clade branch_length="0.018185391949140862">
+<clade branch_length="0.012218946559856305">
+<name>Gorilla gorilla</name>
+</clade>
+<clade branch_length="0.012218946559856305">
+<name>Homo sapiens</name>
+</clade>
+</clade>
+</clade>
+</clade>
+<clade branch_length="0.16094810516505512">
+<name>Equus asinus</name>
+</clade>
+</clade>
+</phylogeny>
+</phyloxml>
