@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd" xmlns="http://www.phyloxml.org">
 <phylogeny rooted="true">
-<clade><clade branch_length="0.46270834511648823">
-<clade branch_length="0.047253583784880204">
-<clade branch_length="0.11979307472692752">
-<name>Phodopus sungorus</name>
+<clade><clade branch_length="0.629755003628296">
+<name>Peromyscus maniculatus</name>
 </clade>
-<clade branch_length="0.11979307472692752">
-<name>Peromyscus leucopus</name>
-</clade>
-</clade>
+<clade branch_length="0.46270834511648823">
 <clade branch_length="0.1323724729626487">
-<clade branch_length="0.034674185549159034">
-<name>Meriones unguiculatus</name>
-</clade>
 <clade branch_length="0.034674185549159034">
 <name>Mesocricetus auratus</name>
 </clade>
+<clade branch_length="0.034674185549159034">
+<name>Meriones unguiculatus</name>
 </clade>
 </clade>
-<clade branch_length="0.629755003628296">
-<name>Peromyscus maniculatus</name>
+<clade branch_length="0.047253583784880204">
+<clade branch_length="0.11979307472692752">
+<name>Peromyscus leucopus</name>
+</clade>
+<clade branch_length="0.11979307472692752">
+<name>Phodopus sungorus</name>
+</clade>
+</clade>
 </clade>
 </clade>
 </phylogeny>
