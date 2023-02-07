@@ -1,5 +1,3 @@
-# imports
-import numpy as np
 from Bio import Phylo
 import pandas as pd
 

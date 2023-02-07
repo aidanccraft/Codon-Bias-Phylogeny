@@ -1,8 +1,3 @@
-# imports
-import numpy as np
-from Bio import Phylo
-import pandas as pd
-
 # Create dictionary of amino acids and corresponding codons
 aas = {'Phe': ['UUU', 'UUC'], 'Leu': ['UUA', 'UUG', 'CUU', 'CUC', 'CUA', 'CUG'], 'Ile': ['AUU', 'AUC', 'AUA'], 'Met': ['AUG'], 'Val': ['GUU', 'GUC', 'GUA', 'GUG'],
        'Ser': ['UCU', 'UCC', 'UCA', 'UCG', 'AGU', 'AGC'], 'Pro': ['CCU', 'CCC', 'CCA', 'CCG'], 'Thr': ['ACU', 'ACC', 'ACA', 'ACG'], 'Ala': ['GCU', 'GCC', 'GCA', 'GCG'],
